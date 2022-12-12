@@ -1,0 +1,57 @@
+@page {
+	margin: 0;
+}
+html {
+	font-family: "DejaVu Sans";
+	font-size: 3mm;
+	margin: 0;
+}
+body {
+	margin: 0;
+}
+img {
+	height: 3.5mm;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+h1 {
+	font-size: 10mm;
+}
+h2 {
+	font-size: 4.5mm;
+}
+h3 {
+	font-size: 3.75mm;
+	padding-top: 0.3cm;
+}
+h4 {
+	font-size: 3.5mm;
+	margin-bottom: 0.1cm;
+}
+h5 {
+	font-size: 3mm;
+	margin: 0.1cm;
+}
+.flex-container {
+	display: flex;
+	flex-direction: row;
+}
+.column-left {
+	width: 28%;
+	padding: 0cm 0.4cm;
+	background: linear-gradient(to bottom, #a5bff8, #ffffff);
+	margin: 0;
+	min-height: 100vh;
+}
+.column-left ul {
+	list-style-type: none;
+	padding: 0;
+}
+.column-right {
+	width: 72%;
+	padding: 0.4cm;
+	margin: 0;
+	min-height: 100vh;
+}

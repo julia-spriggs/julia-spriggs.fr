@@ -1,0 +1,20 @@
+html {
+    font-family: "DejaVu Sans";
+    background: #0c0010;
+    color: #4a0560;
+}
+a:link {
+    color: #810CA8;
+    text-decoration: none;
+}
+a:visited {
+    color: #C147E9;
+    text-decoration: none;
+}
+a:hover {
+    color: #E5B8F4;
+    text-decoration: none;
+}
+a:active {
+    color: #FFFFFF;
+}
