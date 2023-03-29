@@ -24,3 +24,15 @@ nav {
     justify-content: flex-end;
     gap: 1cm;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    max-width: 50%;
+}
+
+td {
+    padding: 10px 10px;
+}
