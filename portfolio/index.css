@@ -18,3 +18,9 @@ a:hover {
 a:active {
     color: #FFFFFF;
 }
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1cm;
+}
