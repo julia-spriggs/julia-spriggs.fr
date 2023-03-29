@@ -18,3 +18,19 @@ a:hover {
 a:active {
     color: #FFFFFF;
 }
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1cm;
+}
+
+section {
+    display: none;
+    position: absolute;
+    margin: 1cm 1cm;
+}
+
+section:target {
+    display: block;
+}
