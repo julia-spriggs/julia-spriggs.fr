@@ -30,7 +30,11 @@ h1 {
 }
 
 img {
-    max-width: 50%;
+    max-width: 75%;
+}
+
+img:hover {
+    opacity: 0.4;
 }
 
 td {
