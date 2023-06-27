@@ -21,6 +21,7 @@ h1 {
 }
 h2 {
 	font-size: 4.5mm;
+	padding-top: 0.5cm;
 }
 h3 {
 	font-size: 3.75mm;
@@ -54,4 +55,8 @@ h5 {
 	padding: 0.4cm;
 	margin: 0;
 	min-height: 100vh;
+}
+
+.know img {
+	height: 7mm;
 }
