@@ -10,7 +10,7 @@ body {
 	margin: 0;
 }
 img {
-	height: 3.5mm;
+	height: 1.2em;
 }
 a {
 	text-decoration: none;
@@ -58,5 +58,5 @@ h5 {
 }
 
 .know img {
-	height: 7mm;
+	height: 2.5em;
 }
